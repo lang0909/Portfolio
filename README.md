@@ -21,9 +21,9 @@
 > [FIFA-Online4 선수정보 시스템 (웹시스템설계 과목 팀프로젝트)](http://git.ajou.ac.kr/wsd-project/wsd-project) [2019.12]
 
 ##### JAVA 개발
-> [Spring boot application using Riot games API(실전코딩 과목 팀프로젝트1)](https://github.com/lang0909/TeamProject_Riotgames-api-          assignment)   [2019.08]
+> [Spring boot application using Riot games API(실전코딩 과목 팀프로젝트1)](https://github.com/lang0909/TeamProject_Riotgames-api-assignment)   [2019.08]
 
-> [Library Entrance System(도메인분석 및 설계 과목 팀프로젝트)](https://github.com/lang0909/Domain-analysis-and-design-library-entrance-       system) [2018.12]
+> [Library Entrance System(도메인분석 및 설계 과목 팀프로젝트)](https://github.com/lang0909/Domain-analysis-and-design-library-entrance-system) [2018.12]
 
 ##### C 개발
 > [Lexical analyzer (컴파일러 과목 과제1)](https://github.com/lang0909/Compiler_project1_lexical_analyzer) [2019.05]
