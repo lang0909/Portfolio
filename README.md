@@ -44,5 +44,3 @@
 
 > [Cache Design (컴퓨터구조 과목 프로젝트3)](https://github.com/lang0909/Computer_architecture_project3) [2018.11]
 
-> [Cache Design (컴퓨터구조 과목 프로젝트3)](https://github.com/lang0909/Computer_architecture_project3) [2018.11]
-
