@@ -15,9 +15,11 @@
 ## 프로젝트 바로가기
 
 
-##### Javascript 개발
+##### React-Native 개발
 
 > [Weather-App (실전코딩 과목 팀프로젝트2)](https://github.com/lang0909/TeamProject_Weather-app) [2019.08]
+
+##### Javascript 개발
 
 > [FIFA-Online4 선수정보 시스템 (웹시스템설계 과목 팀프로젝트)](https://github.com/lang0909/WebSystem_project) [2019.12]
 
